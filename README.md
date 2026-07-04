@@ -1,5 +1,6 @@
 <h1 align="center">Fardin Shaikh Afroz</h1>
-<h3 align="center">Full Stack Developer (Laravel/PHP) · AI-Assisted Development · Automation Builder</h3>
+<h3 align="center">Full Stack Developer (Laravel/PHP)</h3>
+<p align="center">Exploring AI Automation & AI-Assisted Content Creation</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+production-grade+web+apps+with+Laravel;Automating+business+workflows+with+n8n+%2B+AI;3%2B+years+shipping+CRM%2C+Inventory+%26+SaaS+systems" alt="Typing SVG" />
